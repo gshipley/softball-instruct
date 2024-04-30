@@ -71,7 +71,7 @@ seed_examples:
     What is the "Designated player" in softball?
 task_description: 'Overview of the sport of softball'
 document:
-  repo: https://github.com/asgharlabs/softball_knowledge
-  commit: aff70ecee013899250f7e28bcbff3fdd6c788a6e
+  repo: https://github.com/gshipley/softball-instruct
+  commit: d521cb91f138bbbfe34ad1698f6385a41eeda54a
   patterns:
   - softball.md
